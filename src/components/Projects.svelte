@@ -62,7 +62,7 @@
     <div class="space-y-6">
         {#each projects as project (project.title)}
             <div
-                class="project-card bg-secondary rounded-lg border border-slate-700 hover:border-accent transition-all duration-300 hover:shadow-lg overflow-hidden min-h-[360px] flex flex-col"
+                class="project-card bg-secondary rounded-lg border border-slate-700 hover:border-accent transition-all duration-300 hover:shadow-lg overflow-hidden max-h-[280px]"
             >
                 <div class="grid md:grid-cols-[1.4fr_1fr] items-stretch h-full">
                     <!-- CONTENU -->
