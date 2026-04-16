@@ -62,9 +62,9 @@
             category: "Compétences transversales",
             items: [
                 { label: "Travail d’équipe", level: 3 },
-                { label: "Gestion de projet", level: 2 },
+                { label: "Gestion de projet", level: 3 },
                 { label: "Communication technique", level: 2 },
-                { label: "Analyse des besoins", level: 2 },
+                { label: "Analyse des besoins", level: 3 },
             ],
         },
     ];
