@@ -1,5 +1,5 @@
 <script>
-    import { experiences } from "../data/experiences.js";
+    import { experiences } from "../static/experiences.js";
 
     let openProjects = {};
 

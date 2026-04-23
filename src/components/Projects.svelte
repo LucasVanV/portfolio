@@ -1,5 +1,5 @@
 <script>
-    import { personalProjects } from "../data/projects.js";
+    import { personalProjects } from "../static/projects.js";
     function getStatusClass(status) {
         const s = status.toLowerCase();
 

@@ -1,41 +1,3 @@
-export const formations = [
-    {
-        degree: "Mastère Expert en Développement Fullstack",
-        institution: "Ynov Lille",
-        period: "2024 - Présent",
-        description:
-            "Formation avancée en développement logiciel couvrant la conception d’applications web, les architectures backend, les pratiques DevOps et le développement fullstack en environnement professionnel.",
-        skills: ["Fullstack", "Architecture logicielle", "DevOps", "Travail en équipe"],
-        projects: ynovProject,
-    },
-    {
-        degree: "BUT Informatique - Parcours Réalisation d’Applications",
-        institution: "UPHF - Campus de Maubeuge",
-        period: "2021 - 2024",
-        description:
-            "Formation axée sur le développement logiciel, la programmation orientée objet, les bases de données et la conception d’applications.",
-        skills: [
-            "C",
-            "Bash",
-            "Java",
-            "SQL",
-            "Développement web",
-            "Économie",
-            "Gestion de projet",
-            "Communication",
-            "Mathématiques",
-        ],
-        projects: butProject,
-    },
-    {
-        degree: "Baccalauréat Général",
-        institution: "Lycée Eugène Thomas - Le Quesnoy",
-        period: "2018 - 2021",
-        description: "Spécialités Mathématiques et Numérique & Sciences Informatiques (NSI).",
-        skills: ["Algorithmique", "Mathématiques"],
-    },
-];
-
 const ynovProject = [
     {
         name: "Dataterra",
@@ -88,5 +50,43 @@ const butProject = [
             "Développement d’un jeu en Java mettant en scène des robots autonomes évoluant sur une grille pour collecter et acheminer des ressources vers des entrepôts.",
         tags: ["Java", "JavaFX"],
         link: "#",
+    },
+];
+
+export const formations = [
+    {
+        degree: "Mastère Expert en Développement Fullstack",
+        institution: "Ynov Lille",
+        period: "2024 - Présent",
+        description:
+            "Formation avancée en développement logiciel couvrant la conception d’applications web, les architectures backend, les pratiques DevOps et le développement fullstack en environnement professionnel.",
+        skills: ["Fullstack", "Architecture logicielle", "DevOps", "Travail en équipe"],
+        projects: ynovProject,
+    },
+    {
+        degree: "BUT Informatique - Parcours Réalisation d’Applications",
+        institution: "UPHF - Campus de Maubeuge",
+        period: "2021 - 2024",
+        description:
+            "Formation axée sur le développement logiciel, la programmation orientée objet, les bases de données et la conception d’applications.",
+        skills: [
+            "C",
+            "Bash",
+            "Java",
+            "SQL",
+            "Développement web",
+            "Économie",
+            "Gestion de projet",
+            "Communication",
+            "Mathématiques",
+        ],
+        projects: butProject,
+    },
+    {
+        degree: "Baccalauréat Général",
+        institution: "Lycée Eugène Thomas - Le Quesnoy",
+        period: "2018 - 2021",
+        description: "Spécialités Mathématiques et Numérique & Sciences Informatiques (NSI).",
+        skills: ["Algorithmique", "Mathématiques"],
     },
 ];

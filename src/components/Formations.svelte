@@ -1,5 +1,5 @@
 <script>
-    import { formations } from "../data/formations.js";
+    import { formations } from "../static/formations.js";
 
     let openProjects = {};
 

@@ -1,5 +1,5 @@
 <script>
-    import { skills } from "../data/skills.js";
+    import { skills } from "../static/skills.js";
 
     function getTextFromLevel(level) {
         if (level === 3) return "Maîtrisé";
