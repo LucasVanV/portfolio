@@ -1,6 +1,6 @@
 export const personalProjects = [
         {
-            title: "Billard Numérique",
+            title: "Billard Labs",
             description:
                 "Application innovante autour du billard connecté : suivi des parties, statistiques des joueurs, gamification et interaction en temps réel avec des tables.",
             tags: ["React Native", "PostgreSQL", "Quarkus", "Microservices", "C", "Embarqué"],
@@ -8,6 +8,16 @@ export const personalProjects = [
             year: 2026,
             image: `${import.meta.env.BASE_URL}/images/Billard.jpg`,
             status: "Prototype",
+        },
+        {
+            title: "VehicleDex",
+            description:
+                "Base de données de véhicules pensée pour centraliser des informations propres et fiables sur les marques, modèles, logos et fiches techniques auto/moto, avec une API exploitable facilement par d’autres applications.",
+            tags: ["PostgreSQL", "Quarkus", "SvelteKit"],
+            link: "#",
+            year: 2025,
+            image: `${import.meta.env.BASE_URL}/images/VehicleDex.jpg`,
+            status: "En cours",
         },
         {
             title: "RadarAce",
