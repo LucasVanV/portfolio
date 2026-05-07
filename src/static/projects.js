@@ -13,9 +13,9 @@ export const personalProjects = [
             title: "VehicleDex",
             description:
                 "Base de données de véhicules pensée pour centraliser des informations propres et fiables sur les marques, modèles, logos et fiches techniques auto/moto, avec une API exploitable facilement par d’autres applications.",
-            tags: ["PostgreSQL", "Quarkus", "SvelteKit"],
+            tags: ["PostgreSQL", "Flyway", "Quarkus", "SvelteKit"],
             link: "#",
-            year: 2025,
+            year: 2026,
             image: `${import.meta.env.BASE_URL}/images/VehicleDex.jpg`,
             status: "En cours",
         },
