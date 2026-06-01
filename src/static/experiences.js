@@ -55,7 +55,8 @@ export const experiences = [
     },
     {
         role: "Stage - BUT Informatique 3e année",
-        company: "SNCF Voyageurs",
+        company:
+            "SNCF Voyageurs - Cluster Ingénierie Nord Développement Informatique Embarquée",
         period: "Mars 2024 - Juin 2024",
         description:
             "Stage de fin de BUT centré sur le développement d’applications internes et la découverte d’un environnement industriel lié au ferroviaire.",

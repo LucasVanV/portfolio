@@ -9,7 +9,7 @@
         <div class="space-y-6">
             <div class="space-y-4">
                 <p class="text-accent font-medium tracking-wide uppercase text-sm">
-                    Développeur fullstack · systèmes embarqués · software & hardware
+                    Développeur fullstack · systèmes embarqués
                 </p>
 
                 <h1 class="text-5xl lg:text-6xl font-bold text-white leading-tight">
@@ -73,7 +73,7 @@
                     <div class="space-y-4 relative z-10">
                         <p class="text-slate-400 text-sm uppercase tracking-wider">Profil</p>
 
-                        <h2 class="text-3xl font-bold text-white">Software + Hardware</h2>
+                        <h2 class="text-3xl font-bold text-white">Fullstack & Embarqué</h2>
 
                         <p class="text-slate-300 leading-relaxed">
                             Développement d’outils, projets entrepreneuriaux, interfaces embarquées
@@ -85,7 +85,6 @@
                             <span class="pill">Electron</span>
                             <span class="pill">Java</span>
                             <span class="pill">PostgreSQL</span>
-                            <span class="pill">Raspberry Pi</span>
                         </div>
                     </div>
                 </div>

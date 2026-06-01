@@ -4,7 +4,7 @@ export const personalProjects = [
             description:
                 "Application innovante autour du billard connecté : suivi des parties, statistiques des joueurs, gamification et interaction en temps réel avec des tables.",
             tags: ["React Native", "PostgreSQL", "Quarkus", "Microservices", "C", "Embarqué"],
-            link: "#",
+            link: "https://billard-labs.com",
             year: 2026,
             image: `${import.meta.env.BASE_URL}/images/Billard.jpg`,
             status: "Prototype",
@@ -17,7 +17,7 @@ export const personalProjects = [
             link: "#",
             year: 2026,
             image: `${import.meta.env.BASE_URL}/images/VehicleDex.jpg`,
-            status: "En cours",
+            status: "MVP",
         },
         {
             title: "RadarAce",
